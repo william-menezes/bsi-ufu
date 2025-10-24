@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1761312563 source:c:\dev\bsi-ufu\facom32201-algoritmos-e-programacao-ii\1-exercicios-revisao\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+
